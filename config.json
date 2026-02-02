@@ -1,10 +1,8 @@
 {
-  "configVersion": 1,
-  "announcement": {
+  "banner": {
     "enabled": true,
-    "title": "Welcome!",
-    "message": "Thanks for using TikTok Mod! Join our channel for updates.",
-    "url": "https://t.me/your_channel",
-    "dismissKey": "welcome-v1"
+    "imageUrl": "https://raw.githubusercontent.com/s0vunia/banners/main/banner.png",
+    "clickUrl": "https://t.me/s0vunia",
+    "dismissKey": "banner-v1"
   }
 }
