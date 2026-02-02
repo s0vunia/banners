@@ -1,0 +1,10 @@
+{
+  "configVersion": 1,
+  "announcement": {
+    "enabled": true,
+    "title": "Welcome!",
+    "message": "Thanks for using TikTok Mod! Join our channel for updates.",
+    "url": "https://t.me/your_channel",
+    "dismissKey": "welcome-v1"
+  }
+}
