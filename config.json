@@ -1,7 +1,7 @@
 {
   "banner": {
     "enabled": true,
-    "imageUrl": "https://raw.githubusercontent.com/s0vunia/banners/main/banner.png",
+    "imageUrl": "https://raw.githubusercontent.com/s0vunia/banners/main/banner.webp",
     "clickUrl": "https://t.me/s0vunia",
     "dismissKey": "banner-v1"
   }
